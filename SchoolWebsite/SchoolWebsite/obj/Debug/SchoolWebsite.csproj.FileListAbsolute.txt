@@ -7,3 +7,12 @@ D:\期末项目\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.csprojResolv
 D:\期末项目\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.csproj.CoreCompileInputs.cache
 D:\期末项目\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.dll
 D:\期末项目\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.pdb
+D:\项目1\TieYiZhong\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.dll.config
+D:\项目1\TieYiZhong\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.dll
+D:\项目1\TieYiZhong\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.pdb
+D:\项目1\TieYiZhong\SchoolWebsite\SchoolWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\项目1\TieYiZhong\SchoolWebsite\SchoolWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\项目1\TieYiZhong\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.csprojResolveAssemblyReference.cache
+D:\项目1\TieYiZhong\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.csproj.CoreCompileInputs.cache
+D:\项目1\TieYiZhong\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.dll
+D:\项目1\TieYiZhong\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.pdb
