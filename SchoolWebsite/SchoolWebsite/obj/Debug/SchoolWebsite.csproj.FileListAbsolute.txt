@@ -1,0 +1,9 @@
+D:\期末项目\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.dll.config
+D:\期末项目\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.dll
+D:\期末项目\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.pdb
+D:\期末项目\SchoolWebsite\SchoolWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\期末项目\SchoolWebsite\SchoolWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\期末项目\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.csprojResolveAssemblyReference.cache
+D:\期末项目\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.csproj.CoreCompileInputs.cache
+D:\期末项目\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.dll
+D:\期末项目\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.pdb
